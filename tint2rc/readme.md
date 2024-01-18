@@ -1,6 +1,8 @@
 # TINT2 
 panel themes, i guess
 
+![screen3](https://github.com/RQD85/tapedots/assets/94619635/597e3427-aedb-4828-b34f-3d24471e2841)
+
 # the most metro feeling variants i guess
 Version 1 name Sudirman (14/Janu/24) 
 
@@ -30,4 +32,5 @@ Jodee (14/Jan/24)
 # Dependencies
 the metro feeling variants is dependent on :
 [xlunch](https://github.com/Tomas-M/xlunch) lxqt-leave (added in version 2)
+
 
