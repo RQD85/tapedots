@@ -28,9 +28,13 @@ inactive taskbar fix
 # Miscellaneous
 
 Jodee (14/Jan/24)
+GRBY (31/Jan/24)
+leeps (2/Feb/24)
 
 # Dependencies
 the metro feeling variants is dependent on :
 [xlunch](https://github.com/Tomas-M/xlunch) lxqt-leave (added in version 2)
+
+GRBY and leeps requires : rofi
 
 
