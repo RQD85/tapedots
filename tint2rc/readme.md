@@ -31,6 +31,10 @@ Jodee (14/Jan/24)
 GRBY (31/Jan/24)
 leeps (2/Feb/24)
 
+![image](https://github.com/user-attachments/assets/b18a141b-8909-4529-aa0f-0ee58e37f86e)
+updated
+
+
 # Dependencies
 the metro feeling variants is dependent on :
 [xlunch](https://github.com/Tomas-M/xlunch) lxqt-leave (added in version 2)
